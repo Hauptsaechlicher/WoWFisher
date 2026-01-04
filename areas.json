@@ -1,0 +1,41 @@
+{
+    "1": {
+        "name": "Azshara",
+        "pattern": "azshara"
+    },
+    "2": {
+        "name": "Desolace",
+        "pattern": "desolace"
+    },
+    "3": {
+        "name": "Dustwallow Marsh",
+        "pattern": "dustwallowmarsh"
+    },
+    "4": {
+        "name": "Feralas",
+        "pattern": "feralas"
+    },
+    "5": {
+        "name": "Storm Wind",
+        "pattern": [
+            "stormwind_day",
+            "stormwind_night"
+        ]
+    },
+    "6": {
+        "name": "Swamps of Sorrow",
+        "pattern": "swampsofsorrow"
+    },
+    "7": {
+        "name": "Tanaris",
+        "pattern": "tanaris"
+    },
+    "8": {
+        "name": "The barrens",
+        "pattern": "thebarrens"
+    },
+    "9": {
+        "name": "Tirisfal",
+        "pattern": "tirisfal"
+    }
+}

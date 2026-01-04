@@ -1,0 +1,4 @@
+# Fishingbot Optionen
+selected_area=8
+cast_button=middle
+audio_device_id=12
